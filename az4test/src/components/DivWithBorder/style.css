@@ -1,0 +1,13 @@
+.DivWithBorder {
+  border: 2px solid #000;
+  width:80%;
+  margin:auto;
+  padding:50px;
+  margin-top: 40px;
+}
+
+.liveWidth {
+  width:100%;
+  display: block;
+  margin-bottom:20px;
+}
